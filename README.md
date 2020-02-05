@@ -32,7 +32,7 @@
 
 - 📺
 
-    <video src="media/0045b5Xdlx07ACsrmGZq01041201y7q60E010.mp4"></video>
+    [记者会视频](media/0045b5Xdlx07ACsrmGZq01041201y7q60E010.mp4)
 
 ### **🚫武汉市卫健委**
 
@@ -42,4 +42,4 @@
 
 - 📺
 
-    <video src="media/001Fn58Slx07AGZWJESk01041201fsb90E013.mp4"></video>
+    [新京报访问](media/001Fn58Slx07AGZWJESk01041201fsb90E013.mp4)
