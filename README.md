@@ -31,6 +31,6 @@
 
     记者会提问题直接当朝念稿，牛头不对马嘴。
 
-📺
+- 📺
 
-[记者会视频](Untitled/0045b5Xdlx07ACsrmGZq01041201y7q60E010.mp4)
+    [记者会视频](Untitled/0045b5Xdlx07ACsrmGZq01041201y7q60E010.mp4)
