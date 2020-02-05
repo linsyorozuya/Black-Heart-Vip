@@ -1,5 +1,4 @@
 # 天朝黑名单
-[Notion Page](https://www.notion.so/linsyorozuya/0e371a5dbbd144f28fc3141fd14321c3)
 > 2020 肺炎期间一系列骚炒作令人大跌眼镜，所以收集公开可证实的黑名单。钉在耻辱柱上备忘、排雷和警戒。
 
 **中国科学院上海药物所 和 武汉病毒所**
@@ -34,4 +33,4 @@
 
 📺
 
-[Untitled/0045b5Xdlx07ACsrmGZq01041201y7q60E010.mp4](Untitled/0045b5Xdlx07ACsrmGZq01041201y7q60E010.mp4)
+[记者会视频](Untitled/0045b5Xdlx07ACsrmGZq01041201y7q60E010.mp4)
