@@ -10,7 +10,8 @@
 
 - 🗾
 
-     ![IMG_1767](media/IMG_1767.jpeg)
+  <img src="media/IMG_1767.jpeg"  height = "400" alt="训诫书" align=left />
+
 
 
 
@@ -34,8 +35,8 @@
   
 
 - 🗾
-
-  ![武汉市卫健委公告未发现人传人](media/a716fd45ly1gafuu4tjy3j20ow0oa79t.jpg)
+  
+  <img src="media/a716fd45ly1gafuu4tjy3j20ow0oa79t.jpg"  height = "400" alt="训诫书" align=left />
 
 
 
