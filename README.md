@@ -20,8 +20,6 @@
   
 - 🔗
 
-  [新京报访问武汉卫健委关于使用中药问题](media/001Fn58Slx07AGZWJESk01041201fsb90E013.mp4)
-
   [国家卫健委：当前新型冠状病毒感染的肺炎疫情仍可防可控](https://china.huanqiu.com/article/9CaKrnKoYBB)
 
   [杭州104例确诊病例，98％服用中药汤剂！8例经中西医结合治疗痊愈](https://new.qq.com/omn/20200206/20200206A0IGW600.html)
@@ -29,6 +27,10 @@
 - 🗾
   
   <img src="media/a716fd45ly1gafuu4tjy3j20ow0oa79t.jpg"  max-height = "400"  />
+
+- 📺
+
+  [新京报访问武汉卫健委关于使用中药问题](media/001Fn58Slx07AGZWJESk01041201fsb90E013.mp4)
 
 
 ### 🚫中国科学院上海药物所 和 武汉病毒研究所
