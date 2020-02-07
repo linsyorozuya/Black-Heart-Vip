@@ -88,7 +88,7 @@
 
 - 🗾
 
-  ![相关文件图片](media/IMG_1758.jpeg)
+  <img src="media/IMG_1758.jpeg"  height = "400"  />
   
   
 ### 🚫人名日报
@@ -99,4 +99,4 @@
 
 - 🗾
 
-  ![相关微博](media/75ae31f4d947b65b7285fe7b2603984e.jpg)
+  <img src="media/75ae31f4d947b65b7285fe7b2603984e.jpg"  height = "400"  />
