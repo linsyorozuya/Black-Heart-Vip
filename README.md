@@ -8,7 +8,7 @@
   
 - 🗾
   
-  <img src="media/IMG_1767.jpeg"  max-height="400" alt="训诫书" />
+  <img src="https://cdn.jsdelivr.net/gh/linsyorozuya/Black-Heart-Vip@master/media/IMG_1767.jpeg"   alt="训诫书" />
 
 
 ### 🚫卫健委
@@ -26,7 +26,7 @@
 
 - 🗾
   
-  <img src="media/a716fd45ly1gafuu4tjy3j20ow0oa79t.jpg"  max-height="400"  />
+  <img src="https://cdn.jsdelivr.net/gh/linsyorozuya/Black-Heart-Vip@master/media/a716fd45ly1gafuu4tjy3j20ow0oa79t.jpg"    />
 
 - 📺
 
@@ -93,7 +93,7 @@
 
 - 🗾
 
-  <img src="media/IMG_1758.jpeg"  max-height="400"  />
+  <img src="https://cdn.jsdelivr.net/gh/linsyorozuya/Black-Heart-Vip@master/media/IMG_1758.jpeg"    />
   
   
 ### 🚫人名日报
@@ -104,4 +104,8 @@
 
 - 🗾
 
-  <img src="media/75ae31f4d947b65b7285fe7b2603984e.jpg"  max-height="400"  />
+  <img src="https://cdn.jsdelivr.net/gh/linsyorozuya/Black-Heart-Vip@master/media/75ae31f4d947b65b7285fe7b2603984e.jpg"    />
+
+
+
+
