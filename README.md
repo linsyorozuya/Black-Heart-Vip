@@ -9,18 +9,24 @@
 - 🗾
   
   <img src="https://cdn.jsdelivr.net/gh/linsyorozuya/Black-Heart-Vip@master/media/IMG_1767.jpeg"   alt="训诫书" />
+  
+- 📺
+  
+  [央视辟谣](media/fake.mov)
 
 
 ### 🚫卫健委
 
 - ❓
 
-  1. 2019 肺炎期间，各地卫健委回应新冠肺炎治疗必须使用中药。强调中西结合，方子可能每个医院还不一样。
-  2. 卫健委不够重视疫情的危害性多次强调可防可控，导致民众疏于防护。也间接导致疫情无法在春运前得到控制扩散到其他地区。
+  1. 卫健委不够重视疫情的危害性多次强调可防可控，导致民众疏于防护。也间接导致疫情无法在春运前得到控制扩散到其他地区。
+  2. 2019 肺炎期间，各地卫健委回应新冠肺炎治疗必须使用中药。强调中西结合，方子可能每个医院还不一样。
   
 - 🔗
 
   [国家卫健委：当前新型冠状病毒感染的肺炎疫情仍可防可控](https://china.huanqiu.com/article/9CaKrnKoYBB)
+  
+  [失去的机会，新冠疫情早期被忽视的小医院病例](https://mp.weixin.qq.com/s?__biz=MzUzNjk4NTcyOA==&mid=2247488321&idx=1&sn=621c51534800e0b949e0bfb627fbcd7d&chksm=faecbaaecd9b33b81f5cb8be4a293993d509220cbaa38fa7707b3e3e1e1cf281db1384a28801&mpshare=1&scene=1&srcid=&sharer_sharetime=1581387278594&sharer_shareid=81cadb1cb517e608ae85b8f6a24f95d1&exportkey=AbzKD1Q1huFE8AVRoSRQU6w%3D&pass_ticket=LQZWmUR%2Bk9mAVF3O0xG2u1KMtleYUSXT0Wdl8aVsaIieydHa7ykXpQkGoDs7Y7eC#rd)
 
   [杭州104例确诊病例，98％服用中药汤剂！8例经中西医结合治疗痊愈](https://new.qq.com/omn/20200206/20200206A0IGW600.html)
 
@@ -106,6 +112,4 @@
 
   <img src="https://cdn.jsdelivr.net/gh/linsyorozuya/Black-Heart-Vip@master/media/75ae31f4d947b65b7285fe7b2603984e.jpg"    />
 
-
-#
 
