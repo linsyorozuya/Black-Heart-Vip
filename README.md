@@ -121,4 +121,17 @@
 - 🔗
 
   [医用防护服告急，但湖北仙桃仅批准10家公司生产](https://mp.weixin.qq.com/s/4SwZeLA8-yCDUQiUKouM8g)
+  
+### 湖北武汉市武昌区
 
+- ❓
+
+  2019 肺炎期间，武昌区由于工作滞后、衔接无序、组织混乱，不仅转运车辆条件差，街道和社区工作人员也没有跟车服务，导致重症病人长时间等待继而情绪失控，做法十分恶劣。
+
+- 🗾
+  
+  <img src="https://cdn.jsdelivr.net/gh/linsyorozuya/Black-Heart-Vip@master/media/wucanqu.jpeg"    />
+
+- 📺
+
+  [环球网视频](media/wucanqu.MOV)
