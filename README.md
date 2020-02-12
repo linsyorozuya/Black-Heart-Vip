@@ -112,4 +112,13 @@
 
   <img src="https://cdn.jsdelivr.net/gh/linsyorozuya/Black-Heart-Vip@master/media/75ae31f4d947b65b7285fe7b2603984e.jpg"    />
 
+### 湖北仙桃市政府
+
+- ❓
+
+  2019 肺炎期间，医用防护服告急，但湖北仙桃仅批准10家公司生产。
+
+- 🔗
+
+  [医用防护服告急，但湖北仙桃仅批准10家公司生产](https://mp.weixin.qq.com/s/4SwZeLA8-yCDUQiUKouM8g)
 
